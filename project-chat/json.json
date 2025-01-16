@@ -1,0 +1,27 @@
+{
+    "chat_responses": {
+        "topics": {
+            "coffee": [
+                "The coffee shop on campus is open from 8 AM to 5 PM—come grab your favorite brew!",
+                "Need your caffeine fix? The campus café is ready to serve you from 8 AM to 5 PM every day."
+            ],
+            "library": [
+                "The library is your go-to spot for research and study, open Monday to Friday, 9 AM to 6 PM.",
+                "Looking for a quiet space to focus? The library is open weekdays from 9 AM to 6 PM."
+            ],
+            "courses": [
+                "Our university offers top-notch courses in technology, arts, and engineering. Check them out online!",
+                "Explore our innovative programs in various fields, including Computer Science, Fine Arts, and more. Visit our website for details!"
+            ],
+            "admissions": [
+                "Admissions are open from April through June . Be sure to check out the requirements on our website.",
+                "Want to join us? Apply between April and June—visit the admissions page for all the details!"
+            ]
+        },
+        "default_responses": [
+            "I'm not sure about that, but I'd be happy to assist with something else!",
+            "That's a good question—let me know if there's another way I can help.",
+            "I don't have the answer right now, but feel free to ask me about other topics!"
+        ]
+    }
+}

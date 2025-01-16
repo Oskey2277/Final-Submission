@@ -1,0 +1,18 @@
+
+--- Chat started on 2025-01-16 17:28:35 ---
+Sam: Nice to meet you, oskar!
+oskar: coffee
+Sam: The coffee shop on campus is open from 8 AM to 5 PM—come grab your favorite brew!
+oskar: admission
+Sam: That’s a good question—let me know if there’s another way I can help.
+oskar: admissions
+Sam: Want to join us? Apply between April and June—visit the admissions page for all the details!
+oskar: admissions
+Sam: Admissions are open from April through June. Be sure to check out the requirements on our website.
+oskar: courses
+Sam: Explore our innovative programs in various fields, including Computer Science, Fine Arts, and more. Visit our website for details!
+oskar: library
+Sam: Looking for a quiet space to focus? The library is open weekdays from 9 AM to 6 PM.
+oskar: jsdhagda
+Sam: Oh no! It seems we've been disconnected. Please try again later.
+--- Chat ended ---
